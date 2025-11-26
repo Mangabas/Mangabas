@@ -1,7 +1,7 @@
 <h1>Hi, my name is Lucas Mangabeira, and I'm a programmer.</h1>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangabas&layout=compact&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mangabas=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <h2>Technologies</h2>
